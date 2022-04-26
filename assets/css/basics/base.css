@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(34, 193, 195);
+    background: linear-gradient(166deg, rgb(237 207 152) 0%, rgb(223 216 155 / 49%) 100%);
+    margin: 0;
+    padding: 2%;
+    min-height: 95vh;
+    border: 5px solid rgba(43, 43, 31, 0.498);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+button {
+    cursor: pointer;
+}
